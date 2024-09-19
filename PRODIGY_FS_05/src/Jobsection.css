@@ -1,0 +1,9 @@
+
+  .jobsection{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    background-color: #F1F2F7;
+    padding-left: 40px;
+    height: fit-content;
+  }
